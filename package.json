@@ -1,7 +1,7 @@
 {
   "name": "diescake-hello",
-  "version": "1.0.0",
-  "description": "Registration tet for npm",
+  "version": "1.0.1",
+  "description": "Registration test for npm",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
